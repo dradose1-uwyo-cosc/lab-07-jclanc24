@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [John Clancy]
+## [Assignment #7]
+## [Submission date: 11/03/24]
 ## Worked with/sources 
-* example
+* Lecture Notes and Textbook Readings
 * example
 * example
 * example
