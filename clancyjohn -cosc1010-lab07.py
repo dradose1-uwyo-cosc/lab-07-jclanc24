@@ -1,12 +1,10 @@
-# Your Name Here
+# John Clancy
 # UWYO COSC 1010
-# Submission Date
-# Lab XX
-# Lab Section: 
+# Submission Date: 11/3/2024
+# Lab 07
+# Lab Section: 13
 # Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# 
 
 
 # Prompt the user for an upper bound 
